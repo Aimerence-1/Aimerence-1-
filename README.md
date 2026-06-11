@@ -1,6 +1,6 @@
 <h1 align="center">👋 Bonjour, je suis Fèmi Aimérence BOKO</h1>
 
-<h3 align="center">🛡️ Étudiante en Cybersécurité · École des Métiers du Numérique · Promo 2026</h3>
+<h3 align="center"> Étudiante en Cybersécurité · École des Métiers du Numérique · Promo 2026</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C7F7&center=true&vCenter=true&width=500&lines=Cybersécurité+%7C+SOC+%7C+SIEM;Détection+d'intrusions+%7C+Blue+Team;Wazuh+%7C+Kali+Linux+%7C+MITRE+ATT%26CK" alt="Typing SVG" />
@@ -8,19 +8,19 @@
 
 ---
 
-## 🧑‍💻 À propos de moi
+##  À propos de moi
 
-- 🎓 Étudiante en **Cybersécurité** (École des Métiers du Numérique, promo 2026)
-- 🔭 Passionnée par la **détection d'intrusions**, l'analyse SOC et les environnements SIEM
-- 🛡️ Actuellement en train d'approfondir mes compétences en **Blue Team** et **Threat Detection**
-- 🌍 Basée au **Bénin**
-- 📫 Me contacter : [GitHub](https://github.com/Aimerence-1)
+- Étudiante en **Cybersécurité** (École des Métiers du Numérique, promo 2026)
+- Passionnée par la **détection d'intrusions**, l'analyse SOC et les environnements SIEM
+- Actuellement en train d'approfondir mes compétences en **Blue Team** et **Threat Detection**
+- Basée au **Bénin**
+- Me contacter : [GitHub](https://github.com/Aimerence-1)
 
 ---
 
-## 🚀 Projets mis en avant
+## Projets mis en avant
 
-### 🔐 [Lab de Cybersécurité — Wazuh SIEM](https://github.com/Aimerence-1/Lab-cybersecurite-wazuh)
+### [Lab de Cybersécurité — Wazuh SIEM](https://github.com/Aimerence-1/Lab-cybersecurite-wazuh)
 > Simulation d'attaques réelles et détection en temps réel
 
 - Architecture 3 machines virtuelles : Kali Linux (attaquant) · Windows 10 (victime) · Ubuntu/Wazuh (SIEM)
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 ### Sécurité & SIEM
 ![Wazuh](https://img.shields.io/badge/Wazuh-0073B7?style=for-the-badge&logo=wazuh&logoColor=white)
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aimerence-1&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Statistiques GitHub" width="48%" />
@@ -61,18 +61,18 @@
 
 ---
 
-## 🧠 Domaines d'intérêt
+## Domaines d'intérêt
 
 ```
-🔵 Blue Team          →  Détection, SOC, Threat Hunting
-🔴 Red Team / Pentest →  Metasploit, msfvenom, Reverse Shell
-📋 Frameworks         →  MITRE ATT&CK, Cyber Kill Chain
-🖥️  SIEM              →  Wazuh, règles personnalisées, alerting
+Blue Team          →  Détection, SOC, Threat Hunting
+Red Team / Pentest →  Metasploit, msfvenom, Reverse Shell
+Frameworks         →  MITRE ATT&CK, Cyber Kill Chain
+SIEM              →  Wazuh, règles personnalisées, alerting
 ```
 
 ---
 
-## 🌱 En cours d'apprentissage
+## En cours d'apprentissage
 
 - [ ] Analyse forensique Linux & Windows
 - [ ] Threat Hunting avec Sigma Rules
@@ -86,5 +86,5 @@
 </p>
 
 <p align="center">
-  <i>⚠️ Toutes mes expérimentations sont réalisées dans des environnements isolés et contrôlés, à des fins strictement éducatives.</i>
+  <i> Toutes mes expérimentations sont réalisées dans des environnements isolés et contrôlés, à des fins strictement éducatives.</i>
 </p>
